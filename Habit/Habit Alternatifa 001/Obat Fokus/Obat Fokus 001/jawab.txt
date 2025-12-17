@@ -1,0 +1,7 @@
+Tentukan kebenaran pernyataan di bawah ini berdasarkan bacaan
+0. Pernyataan: Freon jenis lama, seperti CFC, mulai dibatasi penggunaannya karena dapat merusak lapisan ozon. Benar
+0. Amnesia Infantil: Pernyataan: Menurut artikel, amnesia infantil terjadi karena otak bayi tidak merekam kejadian apa pun di tahun-tahun pertama kehidupan. (Salah)
+0. Nico Hulkenberg: Pernyataan: Nico Hulkenberg meraih podium pertamanya di Grand Prix ke-239, yang berlangsung di Silverstone. (Benar)
+0. Dopamin: Pernyataan: Untuk memanfaatkan dopamin dengan baik, kita harus fokus
+mengejar kesenangan atau kepuasan instan. (Salah)
+0. Mikroba Pemakan Plastik: Pernyataan: Bakteri Ideonella sakaiensis ditemukan di lokasi daur ulang botol plastik di Amerika Serikat. (Salah)
